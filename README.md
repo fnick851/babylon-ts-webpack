@@ -1,4 +1,4 @@
-## Building and running on localhost
+## Build a WebGL app with Babylon and TypeScript
 
 First install dependencies:
 
